@@ -97,6 +97,7 @@ body.darkble{
     justify-content: center;
 }
 .key{
+    z-index:1;
     font-size:inherit;
     text-transform: uppercase;
     grid-column:span 2;
