@@ -4,5 +4,5 @@
 
 ### how to play:
     There is a "target word" that you should find.
-    Yellow: the letter exists but it's in wrong place.
+    Yellow: the letter exists but it's in the wrong place.
     Green: the letter exists and it's in the correct place
